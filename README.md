@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="webm.webm">
+  <img src="gif.gif">
 </p>
 
 <!--
